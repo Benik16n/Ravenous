@@ -1,8 +1,13 @@
-
-  .title-style{
+  .titlestyle {
+    width: 100%;
+    height: 100%;
+    background-color: gold
+  }
+  .titlestyle h1 {
 text-align: center;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-color: gold;
+color: white;
+;
 
 }
 
